@@ -4,7 +4,7 @@
 
 ### My name is Kirill Pushkarin :raising_hand: 
 
-Experienced IT professional with over 5 years of expertise in Information Technology Management and Operations. Passionate about process improvement through automation, testing, and implementation. A dedicated learner of the latest tools and methodologies committed to applying my knowledge and skills to bring value to the organization I serve.
+Experienced IT professional with over 3 years of expertise in Data Science, encompassing data analysis and machine learning model development. Passionate about driving process improvement through automated data pipelines, rigorous testing, and seamless model implementation. A dedicated learner, constantly staying updated with the latest tools and methodologies in Data Science, and committed to applying my knowledge and skills to deliver valuable insights and innovative machine learning solutions to the organization I serve.
 
 
 
